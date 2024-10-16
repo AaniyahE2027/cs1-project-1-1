@@ -1,1 +1,28 @@
+/* General page styles*/
+body{
+    background-color:#D49A6A;
+    color: rgb(255, 255, 255);
+}
 
+a{
+    color: white;
+    background-color: rgb(241, 189, 129);
+}
+
+img{
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 30px;
+    border-style: double;
+    padding: 5px 5px;
+}
+h1{
+    text-align: center;
+    color: white;
+  text-shadow: 2px 2px 4px #894E30;
+
+
+}
+{
+    background-color: antiquewhite;
+}
