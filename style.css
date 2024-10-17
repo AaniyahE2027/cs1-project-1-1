@@ -20,6 +20,10 @@ h1{
     text-align: center;
     color: white;
   text-shadow: 2px 2px 4px #894E30;
+  text-decoration: underline;
 
-
+}
+hr{
+    color: #894E30;
+   border-width: 2px;
 }
